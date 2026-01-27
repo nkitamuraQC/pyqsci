@@ -1,5 +1,5 @@
 # qsci_exp
-qsci_exp is an unofficial Python package for quantum computing related to quantum chemical calculations.
+qsci_exp is an unofficial Quantum Selected CI library in PySCF and PennyLane
 
 ## Features
 - Selected CI for quantum computing
