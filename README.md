@@ -1,5 +1,5 @@
-# qsci_exp
-qsci_exp is an unofficial Quantum Selected CI library in PySCF and PennyLane
+# qscipy
+qscipy is an unofficial Quantum Selected CI library in PySCF and PennyLane
 
 ## Features
 - Selected CI for quantum computing
