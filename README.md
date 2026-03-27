@@ -1,5 +1,5 @@
-# qscipy
-qscipy is an unofficial Quantum Selected CI library in PySCF and PennyLane
+# pyqsci
+pyqsci is an unofficial Quantum Selected CI library in PySCF and PennyLane
 
 ## Features
 - Selected CI for quantum computing
